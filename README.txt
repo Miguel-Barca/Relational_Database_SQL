@@ -1,0 +1,1 @@
+ Small project as introduction to Relational Database and SQL!
